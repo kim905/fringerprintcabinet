@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/background_viewdatabase"
+    tools:context=".ViewIdentity">
+
+    <TextView
+        android:id="@+id/View_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="this is view database：\n"
+        android:textColor="#00BCD4" />
+
+</LinearLayout>
